@@ -4,8 +4,8 @@ items:
 - samsung
 - xiaomi
 items_price:
-  honor: 7000ð-20000ð
-  iphone: 50000ð-200000ð
-  samsung: 20000ð-100000ð
-  xiaomi: 10000ð-50000ðˆ
+  honor: 7000rub-20000rub
+  iphone: 50000rub-200000rub
+  samsung: 20000rub-100000rub
+  xiaomi: 10000rub-50000rub
 items_quantity: 4

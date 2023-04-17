@@ -9,7 +9,7 @@
 # параметра default_flow_style, а также установить возможность работы с
 # юникодом: allow_unicode = True;
 # c)	Реализовать считывание данных из созданного файла и проверить,
-# совпадают ли они с исходными.
+# совпадают ли они с исходными
 
 import os
 import yaml
@@ -20,10 +20,10 @@ data = {
     'items': ['iphone', 'honor', 'samsung', 'xiaomi'],
     'items_quantity': 4,
     'items_price': {
-        'iphone': '50000р-200000р',
-        'honor': '7000р-20000р',
-        'samsung': '20000р-100000р',
-        'xiaomi': '10000р-50000р€'
+        'iphone': '50000rub-200000rub',
+        'honor': '7000rub-20000rub',
+        'samsung': '20000rub-100000rub',
+        'xiaomi': '10000rub-50000rub'
     }
 }
 
