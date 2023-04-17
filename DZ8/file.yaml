@@ -1,0 +1,11 @@
+items:
+- iphone
+- honor
+- samsung
+- xiaomi
+items_price:
+  honor: 7000ð-20000ð
+  iphone: 50000ð-200000ð
+  samsung: 20000ð-100000ð
+  xiaomi: 10000ð-50000ðˆ
+items_quantity: 4
