@@ -21,7 +21,6 @@ class Worker:
 OBJ = Worker('Игорь', 'Петров', 'Оператор', 30000)
 print(OBJ.full_name())
 
-
 OBJ.name = 'Игорь'
 OBJ.surname = 'Петров'
 print(OBJ.__dict__)
