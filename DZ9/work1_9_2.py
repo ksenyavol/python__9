@@ -26,5 +26,6 @@ class Road:
               f'{self.weight}кг*{self.thickness}м = '
               f'{res_kg}кг = {res_t}т')
 
+        
 work = Road(5000, 20)
 work.asphalt()
