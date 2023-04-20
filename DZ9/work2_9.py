@@ -13,7 +13,6 @@ class MyClass(metaclass = SingletonMeta):
     def method_2(self):
         pass
 
-    
 obj_1 = MyClass()
 obj_2 = MyClass()
 print(obj_1 is obj_2)
